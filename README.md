@@ -1,2 +1,2 @@
-# 04 Funções
+# 04 - Funções
 Desafio módulo 2 vnw
