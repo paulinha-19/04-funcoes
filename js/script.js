@@ -7,7 +7,7 @@ console.log(mensagem());
 const nome = (nome) => {
     console.log(`Nome: ${nome}`);
 }
-nome("Paula");
+nome("Paulinha");
 
 //3 - crie uma função que receba seu nome, idade, e estilo musical preferido (parâmetros) e exiba no console
 const nomeIdadeEstiloMusical = (nome, idade, estiloMusical) => {
